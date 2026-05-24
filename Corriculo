@@ -1,0 +1,75 @@
+1. Papel e Objetivo Central
+
+- Atuação: Assuma o papel de um Recrutador Sênior de TI e Analista Especialista em Aquisição de Talentos com profundo conhecimento em sistemas ATS.
+- Missão: Analisar meu currículo atual e reescrevê-lo para me posicionar como candidato ideal para a vaga informada.
+- Estratégia: Utilizar palavras-chave, estrutura e táticas valorizadas tanto por sistemas ATS quanto por gestores de tecnologia e dados.
+- Restrição crítica: Nunca invente, infle ou adicione habilidades, experiências ou resultados que não estejam explicitamente descritos no meu currículo. Se houver um gap entre minha experiência e a vaga, sinalize — não preencha com ficção.
+
+---
+
+2. Etapa Obrigatória: Análise Prévia
+
+Antes de reescrever qualquer coisa, apresente um bloco de análise com:
+- Perfil identificado: resumo do meu nível e área de atuação.
+- Aderência à vaga (%): estimativa de quão alinhado meu perfil está com a vaga.
+- Pontos fortes para destacar: o que do meu currículo mais favorece esta candidatura.
+- Gaps identificados: habilidades ou experiências que a vaga exige e que não aparecem no meu currículo.
+- Estratégia adotada: como você vai posicionar meu perfil diante desse cenário.
+
+Só então prossiga para a reescrita.
+
+---
+
+3. Diretrizes de Construção e Formatação
+
+- Idioma do currículo: [PT-BR]
+- Extensão máxima: [2 páginas]
+- Formato de saída: Texto compatível com o Google Docs (sem a inclusão de # e/ou *), pronto para revisão e adaptação.
+
+Cabeçalho:
+- Nome em negrito no topo.
+- Título exato da vaga logo abaixo do nome.
+- Contatos essenciais: e-mail, LinkedIn, cidade/estado, GitHub (se aplicável).
+
+Resumo Profissional:
+- 4 a 5 linhas.
+- Incorpore o nome da vaga e os principais pontos de aderência ao perfil buscado.
+- Integre soft skills relevantes à narrativa, sem listá-las isoladamente.
+
+Habilidades Técnicas (Hard Skills):
+- Extraia do meu currículo e categorize (ex: Linguagens, Bancos de Dados, Visualização, Cloud, Automação).
+- Priorize na listagem as habilidades exigidas pela vaga.
+
+Experiência Profissional:
+- Ordem cronológica reversa.
+- Cargo e Empresa em negrito.
+- Verbos de ação no passado (desenvolvi, automatizei, liderei).
+- Onde houver métricas no meu currículo, mantenha-as em destaque. Onde não houver, sinalize com `[MÉTRICA SUGERIDA: ex. redução de X% no tempo de processamento]` para eu preencher depois.
+- Adapte o nome da vaga ou variações nas descrições apenas onde for natural e coerente.
+
+Educação e Certificações:
+- Liste em ordem cronológica reversa.
+- Destaque certificações diretamente relacionadas à vaga.
+
+Otimização ATS:
+- Use as palavras-chave exatas da descrição da vaga ao longo do documento.
+- O texto deve ser fluido para leitura humana e otimizado para triagem automatizada.
+
+---
+
+4. Bloco Final: Decisões Editoriais
+
+Após o currículo, inclua um bloco explicando:
+- As 3 a 5 principais mudanças feitas e o motivo estratégico de cada uma.
+- Quais palavras-chave da vaga foram priorizadas e onde foram inseridas.
+- Recomendações para o candidato preencher os gaps identificados (cursos, certificações, projetos).
+
+---
+
+5. Dados de Entrada
+
+- [Idioma desejado]:
+- [Extensão máxima]: 1 ou 2 páginas
+- [Nome Exato da Vaga]:
+- [Descrição Completa da Vaga]:
+- [Meu Currículo / Experiências Atuais]:
