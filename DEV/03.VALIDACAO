@@ -1,0 +1,19 @@
+Antes de finalizar, faça uma análise de validação e testes.
+
+Quero que você responda:
+
+1. Este projeto pode funcionar com base nas informações fornecidas?
+2. Quais informações ainda faltam para garantir que ele funcione?
+3. Quais são os pontos mais frágeis?
+4. Quais micro verificações devo fazer antes de executar?
+5. Quais micro verificações devo fazer durante a execução?
+6. Quais micro verificações devo fazer depois da execução?
+7. Qual é o teste mínimo para validar se o projeto está funcionando?
+8. Qual seria um teste com dados válidos?
+9. Qual seria um teste com dados inválidos?
+10. Como sei que o resultado final está correto?
+
+Depois disso, entregue uma checklist de sanidade no formato:
+[ ] item 1
+[ ] item 2
+[ ] item 3
