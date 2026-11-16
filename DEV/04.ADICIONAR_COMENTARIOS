@@ -1,0 +1,26 @@
+Agora quero que você comente o código que gerou, mas com foco em aprendizado.
+
+Regras para os comentários:
+1. Não quero comentários óbvios, como:
+   - "criando variável";
+   - "lendo arquivo";
+   - "salvando arquivo".
+2. Quero comentários que expliquem:
+   - o objetivo de cada bloco;
+   - quais dados são necessários;
+   - quais colunas são obrigatórias;
+   - o que pode quebrar;
+   - por que aquela etapa existe;
+   - o que eu precisaria mudar se a regra de negócio mudar.
+3. Use comentários em português.
+4. Comente principalmente as partes críticas:
+   - leitura de dados;
+   - validações;
+   - filtros;
+   - cálculos;
+   - saída;
+   - tratamento de erros.
+5. Depois do código comentado, me diga:
+   - quais comentários eu deveria reescrever com minhas palavras;
+   - quais partes do código são mais importantes para eu estudar;
+   - quais partes eu posso ignorar por enquanto.
