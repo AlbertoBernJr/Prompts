@@ -1,0 +1,26 @@
+Estou recebendo um erro ao executar meu código Python.
+
+Quero que você me ajude a investigar como um professor, sem apenas me dar a resposta pronta.
+
+Erro recebido:
+[COLE O ERRO AQUI]
+
+Trecho do código relacionado, se eu souber:
+[COLE AQUI]
+
+Contexto:
+- O que eu estava tentando fazer: [DESCREVA]
+- O código funcionava antes? [SIM/NÃO]
+- O que mudou antes do erro aparecer: [DESCREVA]
+- Estou usando dados fictícios? [SIM/NÃO]
+- Estou rodando em qual ambiente: [EXEMPLO: Windows, VS Code, Jupyter, terminal]
+
+Responda assim:
+1. O que esse erro significa em linguagem simples.
+2. Quais são as causas mais comuns.
+3. Qual parte do código provavelmente está envolvida.
+4. Como eu posso investigar passo a passo.
+5. Quais comandos de verificação eu posso usar, como print, type, shape, head.
+6. Como corrigir de forma segura.
+7. Como evitar esse erro no futuro.
+8. Me faça uma pergunta para verificar se eu entendi.
