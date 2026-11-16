@@ -1,0 +1,25 @@
+Agora quero documentar este projeto para eu entender melhor no futuro e para que outra pessoa consiga usar.
+
+Crie um .txt simples com:
+
+1. Nome do projeto.
+2. Objetivo.
+3. Como ele funciona em linguagem simples.
+4. Entrada de dados.
+5. Colunas obrigatórias.
+6. Transformações realizadas.
+7. Saída gerada.
+8. Bibliotecas necessárias.
+9. Como instalar dependências.
+10. Como executar.
+11. Possíveis erros e soluções.
+12. Cuidados importantes.
+13. Onde alterar se a regra de negócio mudar.
+
+Depois, crie também um arquivo chamado APRENDIZADO.txt com:
+- o que eu aprendi com este projeto;
+- conceitos importantes;
+- comandos que usei;
+- erros que encontrei;
+- decisões que tomei;
+- próximos passos para melhorar.
